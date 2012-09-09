@@ -9,11 +9,9 @@ information of your PC, BIOS, Video Card and Processor with a simple click.
 * Model
 * Serial Number
 * Service Pack 
-######BIOS INFO
-* MotherBoard
-* Model
-* BIOS version and relase date
-* System Product name and version
+* MotherBoard name and Model
+* BIOS version and Relase date
+* System Product Name and Version
 
 ##IMPORTANT : Tested only on windows 7
 
