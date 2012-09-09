@@ -4,7 +4,7 @@ SyNFO is a simple System Information Recovery Tool that allows you to know the
 information of your PC, BIOS, Video Card and Processor with a simple click.
 
 ####Features
-PC INFO
+  PC INFO
 * Windows Version
 * Model
 * Serial Number
