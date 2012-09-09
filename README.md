@@ -5,10 +5,10 @@ information of your PC, BIOS, Video Card and Processor with a simple click.
 
 ####Features
 PC INFO
-*Windows Version
-*Model
-*Serial Number
-*Service Pack
+* Windows Version
+* Model
+* Serial Number
+* Service Pack
 
 ##IMPORTANT : Tested only on windows 7
 
