@@ -1,6 +1,8 @@
 SyNFO is a simple System Information Recovery Tool that allows you to know the 
 information of your PC, BIOS, Video Card and Processor with a simple click.
 
+-------------------------------------------------------------------------------------------
+
 ***IMPORTANT***  Tested only on windows 7
 
 To use it on python you need to have the colorama module,
@@ -9,6 +11,7 @@ And you need to use Python v 3.2
 
 Or simply download the .exe version that does not require installation.
 
+--------------------------------------------------------------------------------------------
 Copyright 2012 Kurti Rei This program is free software: you can redistribute it 
 and/or modify it under the terms of the GNU General Public License as published 
 by the Free Software Foundation, either version 3 of the License, or (at your option) 
