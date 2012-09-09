@@ -21,7 +21,7 @@ information of your PC, BIOS, Video Card and Processor with a simple click.
 ######As Python File
 To use it you need to install Python v3.2 and the colorama module,
 that you can find there: http://pypi.python.org/pypi/colorama/0.2.4
-#####As Exe File
+######As Exe File
 It does not require nothing to install, only press SyNFO.exe and the program will start by itself.
 
 --------------------------------------------------------------------------------------------
