@@ -9,13 +9,11 @@ PC INFO
 * Model
 * Serial Number
 * Service Pack
----------------------
 BIOS INFO
 * MotherBoard
 * Model
 * BIOS version and relase date
 * System Product name and version
----------------------
 
 ##IMPORTANT : Tested only on windows 7
 
