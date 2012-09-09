@@ -16,4 +16,4 @@ And you need to use Python v 3.2
 Or simply download the .exe version that does not require installation.
 
 --------------------------------------------------------------------------------------------
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.it"><img alt="Licenza Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />Quest' opera � distribuita con <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.it">licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 Unported</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
