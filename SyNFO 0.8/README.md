@@ -13,7 +13,8 @@ Is a simple System Information Recovery Tool that allows you to know the informa
 * Processor Model Name
 * Video Card name and Driver version
 * Audio, Keyboard, Mouse and Monitor model
-* Once exiting the program the recovered data will be saved in a text file in C:\SyNFO OUTPUT directory.
+
+Once exiting the program the recovered data will be saved in the Desktop in a folder called SyNFO OUTPUT.
 
 ###IMPORTANT - Tested only on windows 7
 
