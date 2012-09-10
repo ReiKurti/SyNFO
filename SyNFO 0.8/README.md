@@ -15,7 +15,7 @@ information of your PC, BIOS, Video Card and Processor with a simple click.
 * Video Card name and Driver version
 * Audio, Keyboard, Mouse and Monitor model
 
-######Once exiting the program  the data will be saved in a text file in C:\SyNFO OUTPUT directory.
+######Once exiting the program the recovered data will be saved in a text file in C:\SyNFO OUTPUT directory.
 
 ###IMPORTANT - Tested only on windows 7
 
