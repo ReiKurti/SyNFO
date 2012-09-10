@@ -1,4 +1,4 @@
-import winreg, os, time, sys, getpass
+import winreg, os, time, sys, getpass, winsound
 from colorama import init, Fore, Back, Style
 init()
 os.system('CLS')
@@ -140,9 +140,12 @@ out_file.write('Windows version:      '+value+'\n'+
                'Driver Version:       '+value13+'\n'+
                'Driver Date:          '+value14+'\n')
 out_file.close()
+winsound.PlaySound("C:/Users/"+getpass.getuser()+"/Desktop/SyNFO 0.8/audio/synfo.wav", winsound.SND_ALIAS)
 
 print()
 print(' Press '+Fore.RED+Style.BRIGHT+'ENTER'+Fore.RESET+' to exit')
 input()
+winsound.PlaySound("C:/Users/"+getpass.getuser()+"/Desktop/SyNFO 0.8/audio/synfo-exit.wav", winsound.SND_LOOP+winsound.SND_ASYNC)
+time.sleep(1)
 exit()
 #---------------------------------------------------------------------------------------------------------
