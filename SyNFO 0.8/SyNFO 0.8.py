@@ -1,8 +1,8 @@
-import winreg, os, time
+import winreg, os, time, sys, getpass
 from colorama import init, Fore, Back, Style
 init()
 os.system('CLS')
-newpath = r'C:/SyNFO OUTPUT'
+newpath = r'C:/Users/'+getpass.getuser()+'/Desktop/SyNFO OUTPUT'
 if not os.path.exists(newpath):
     os.makedirs(newpath)
 # PRETITOLO ------------------------------------------------------------------------------------------
@@ -124,7 +124,7 @@ print (' Mouse                '+Fore.GREEN+Style.BRIGHT+value+Fore.RESET)
 # EXIT ---------------------------------------------------------------------------------------------------
 print(Fore.CYAN+Style.BRIGHT+'--------------------'+Fore.RESET)
 
-out_file = open("C:/SyNFO OUTPUT/SyNFO OUTPUT.txt","w")
+out_file = open("C:/Users/"+getpass.getuser()+"/Desktop/SyNFO OUTPUT/SyNFO OUTPUT.txt","w")
 out_file.write('Windows version:      '+value+'\n'+
                'Type:                 '+value1+'\n'+
                'Serial Number:        '+value2+'\n'+
