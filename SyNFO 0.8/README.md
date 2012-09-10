@@ -1,6 +1,6 @@
 #SyNFO 0.8
 
-Is a simple System Information Recovery Tool that allows you to know the information of your PC, BIOS, Video Card and Processor.
+Is a System Information Recovery Tool that allows you to know the information of your PC, BIOS, Video Card and Processor.
 
 ![](https://github.com/ReiKurti/SyNFO/blob/master/SyNFO%200.8/SyNFO%200.8.PNG?raw=true)
 ####Features
