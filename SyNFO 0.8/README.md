@@ -2,7 +2,7 @@
 
 Is a System Information Recovery Tool that allows you to know the information of your PC, BIOS, Video Card and Processor.
 
-####Features
+####Old Features
 * Windows Version
 * Model
 * Serial Number
@@ -14,7 +14,9 @@ Is a System Information Recovery Tool that allows you to know the information of
 * Video Card name and Driver version
 * Audio, Keyboard, Mouse and Monitor model
 
-Once exiting the program the recovered data will be saved in the Desktop in a folder called SyNFO OUTPUT.
+####New Features
+* Once exiting the program the recovered data will be saved in the Desktop in a folder called SyNFO OUTPUT
+* Sound reproduction at start and exiting of the program
 
 ###IMPORTANT - Tested only on windows 7
 
