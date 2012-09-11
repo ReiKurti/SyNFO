@@ -3,7 +3,7 @@
 Is a System Information Recovery Tool that allows you to know the information of your PC, BIOS, Video Card and Processor.
 
 ![](https://github.com/ReiKurti/SyNFO/blob/master/SyNFO%200.8.PNG?raw=true)
-####Features
+####Old Features
 * Windows Version
 * Model
 * Serial Number
@@ -14,6 +14,10 @@ Is a System Information Recovery Tool that allows you to know the information of
 * Processor Model Name
 * Video Card name and Driver version
 * Audio, Keyboard, Mouse and Monitor model
+
+####New Features
+* Once exiting the program the recovered data will be saved in the Desktop in a folder called SyNFO OUTPUT
+* Sound reproduction at start and exiting of the program
 
 ###IMPORTANT - Tested only on windows 7
 
